@@ -129,8 +129,6 @@ export EDITOR=/usr/bin/nano
 export PATH=$PATH:/Users/bauer015/Library/Android/sdk/platform-tools/
 export PATH=$PATH:/var/root/bin
 export PATH=$PATH:/Users/bauer015/bin
-export ITUNES_CONNECT_USERNAME=robert.s.bauer@disney.com
-export CRASHLYTICSPASSWORD=fatekcor1
 
 # Android instant apps
 export WH_SDK=/Users/bauer015/code/android/whsdk
